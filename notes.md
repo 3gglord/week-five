@@ -1,4 +1,4 @@
-# Week Two Notes
+# Week Five Notes
 
 ## Mapping
 - didn't have any location-based research in mind at first, so I just mapped a theoretical road trip I would have from my hometown to Ottawa
@@ -29,3 +29,4 @@ maps--cartography is as much of an art as it is a science
 - used other site-building platforms before, but have never made a static site using github
 - easier than I expected
 - https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
+- [customize the theme layout](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme)
