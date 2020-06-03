@@ -26,4 +26,6 @@ Static visualizations are those which do not move and cannot be manipulated; dyn
 maps--cartography is as much of an art as it is a science
 
 ## static site
+- used other site-building platforms before, but have never made a static site using github
 - easier than I expected
+- https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
