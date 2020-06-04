@@ -1,5 +1,19 @@
 # Week Five Notes
 
+## Sonification
+
+- used their sample data, Honey production in the USA (1998-2012) to familiarize myself with the program
+- different tones stand out more when you listen to them than others
+- when using the archaeological data, the program still displays the qualitative data (where the materials were found) on the bottom so that people can 
+- lowered the volume of the count of other Roman materials because I wanted to notice when coins were found
+  - I set it to 90% volume while the other stayed at 100%
+  - also set the instrument for count of other Roman materials to piano and count of coins to trumpet
+  - different intruments, volume settings, and sounds could change what the listener hears, thus changing the meaning of the song
+- The duration of the song co-incides with the place where the materials were found
+  - could help us see patterns in the change of the number of coins as it gets further along in the song
+  
+What tones, sounds, settings make sense given your data? How do different choices affect the meaning of what you’ve created? Is there anything meaningful? Save your music and your notes/thoughts on making it, to your repository.
+
 ## Mapping
 - didn't have any location-based research in mind at first, so I just mapped a theoretical road trip I would have from my hometown to Ottawa
 https://uploads.knightlab.com/storymapjs/bf5a196c6852db101445a82dee4321d5/story-map/index.html
