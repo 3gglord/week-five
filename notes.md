@@ -31,3 +31,4 @@ maps--cartography is as much of an art as it is a science
 - https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
 - [customize the theme layout](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme)
 https://github.com/onivim/oni/issues/1708
+https://www.w3schools.com/cssref/sel_hover.asp
