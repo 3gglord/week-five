@@ -6,12 +6,16 @@
 - different tones stand out more when you listen to them than others
   - ex. the piano is more noticable than the bass when played simultaneously because the bass has a lower tone
 - when using the archaeological data, the program displays the qualitative data (where the materials were found) on the bottom
-  - The duration of the song co-incides with the place where the materials were found
+  - the duration of the song co-incides with the place where the materials were found
+  - each new beat is actually a different place
   - could help us see patterns in the change of the number of coins as it gets further along in the song
 - lowered the volume of the count of other Roman materials because I wanted to notice when coins were found
   - I set it to 90% volume while the other stayed at 100%
   - also set the instrument for count of other Roman materials to piano and count of coins to trumpet
   - different intruments, volume settings, and sounds could change what the listener hears, thus changing the meaning of the song
+  
+  <iframe src="audio/sonification-roman-data.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>  
+
 [Roman data, sonified](sonification-roman-data.mp3)
 
 ## Mapping
@@ -54,7 +58,9 @@ From [this reading](http://www.themacroscope.org/?page_id=875): cartography is a
 - succesfully edited and coloured this graph with Inkscape:
 ![inkscape-graph](g166.png)
 - I've used editing programs like Photoshop and Pixelmator before, so this is something I'm used to doing
-- successfully imported a colour palette
+- had trouble uploading a custom colour palette, but then I realized that the "palettes" folder was not in the place that the tutorial said it would be:
+![inkscape-palette-folder-location](inkscape-palette-folder-location.png)
+  - after finding the correct path, everything worked and I was able to upload my palette
 - my dad is colourblind, so I know how important it is that graphics have colours that are easy to understand, especially if those graphics are supposed to teach or argue something
 - I've learned about the rule of thirds, the golden ratio, and colour theory before in previous art classes but I never gave too much thought about how to pair fonts
   - things to think about: height of letters, width, curves, thickness
