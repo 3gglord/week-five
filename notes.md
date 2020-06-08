@@ -14,9 +14,7 @@
   - also set the instrument for count of other Roman materials to piano and count of coins to trumpet
   - different intruments, volume settings, and sounds could change what the listener hears, thus changing the meaning of the song
   
-  <iframe src="audio/sonification-roman-data.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>  
-
-[Roman data, sonified](sonification-roman-data.mp3)
+I uploaded the mp3 file into my repo, which can be found [here]()
 
 ## Mapping
 ### StoryMaps
@@ -75,6 +73,7 @@ From [this reading](http://www.themacroscope.org/?page_id=875): cartography is a
 - easier than I expected
 - used the [github tutorial](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) to create my own webpage
 - I used [this page](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme) to figure out which parts of the original theme code I needed to have to change parts of the preset theme that I chose
+  - downloaded the .scss file for the theme in my repo
 - I wanted to change visual elements of my site, so I used these links to help me figure out how to edit the code:
   - [to change background colour](https://github.com/onivim/oni/issues/1708)
   - [to customize the link hover](https://www.w3schools.com/cssref/sel_hover.asp)
