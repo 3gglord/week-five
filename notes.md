@@ -36,10 +36,18 @@ I uploaded the mp3 file into my repo, which can be found [here](https://github.c
   ![leaflet-animation-error](leaflet-animation-error.png)
   - after looking up the error message and reading the answers on [this website](https://stackoverflow.com/questions/25490653/simplehttpserver-error-404-get-d3-d3-v3-js-http-1-1-404), I realized that I labeled my .js file incorrectly
   - fixed the misspelling and it ran perfectly
-  - original map: ![original-web-map](original-web-map.png)
-  - map with new layer: ![new-layer-map](web-map-overlap.png)
-  - map with layer control button: ![map-with-layer-controls](web-map-layers-watercolour.png)
-  - map with animation: ![animated-map](animated-web-map.png)
+  - original map: 
+  
+  ![original-web-map](original-web-map.png)
+  - map with new layer: 
+  
+  ![new-layer-map](web-map-overlap.png)
+  - map with layer control button: 
+  
+  ![map-with-layer-controls](web-map-layers-watercolour.png)
+  - map with animation: 
+  
+  ![animated-map](animated-web-map.png)
 
 
 From [this reading](http://www.themacroscope.org/?page_id=875): cartography is as much of an art as it is a science
