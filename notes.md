@@ -12,7 +12,7 @@
   - I set it to 90% volume while the other stayed at 100%
   - also set the instrument for count of other Roman materials to piano and count of coins to trumpet
   - different intruments, volume settings, and sounds could change what the listener hears, thus changing the meaning of the song
-[Roman data, sonified]()
+[Roman data, sonified](sonification-roman-data.mp3)
 
 ## Mapping
 ### StoryMaps
@@ -45,16 +45,35 @@ From [this reading](http://www.themacroscope.org/?page_id=875): cartography is a
 
 ## Posters
 - academic posters and infographics
-- information visualization: mapping of abstract data to graphic variables to make a visual representation
-Static visualizations are those which do not move and cannot be manipulated; dynamic visualizations are short animations which show change, either over time or across some other variable; interactive visualizations allow the user to manipulate the graphical variables themselves in real-time. [...] The key is striking a balance between clarity and flexibility.
 
+from [this reading](http://www.themacroscope.org/?page_id=875):
+- information visualization: mapping of abstract data to graphic variables to make a visual representation
+- static visualizations: do not move and cannot be manipulated
+- dynamic visualizations: short animations which show change, either over time or across some other variable
+- interactive visualizations: allow the user to manipulate the graphical variables themselves in real-time
+- need balance between clarity and flexibility
+- succesfully edited and coloured this graph with Inkscape:
+![inkscape-graph](g166.png)
+- I've used editing programs like Photoshop and Pixelmator before, so this is something I'm used to doing
+- successfully imported a colour palette
+- my dad is colourblind, so I know how important it is that graphics have colours that are easy to understand, especially if those graphics are supposed to teach or argue something
+- I've learned about the rule of thirds, the golden ratio, and colour theory before in previous art classes but I never gave too much thought about how to pair fonts
+  - things to think about: height of letters, width, curves, thickness
+
+- resources:
+  - [colorbrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+  - [typeconnection.com](http://www.typeconnection.com/)
 
 ## static site
-- used other site-building platforms before, but have never made a static site using github
+- [here](https://paula-rodrigo.github.io/) is the link to my static site for this class
+- I've used other site-building platforms before, but have never made a static site using github
 - easier than I expected
-- https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
-- [customize the theme layout](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme)
-https://github.com/onivim/oni/issues/1708
-https://www.w3schools.com/cssref/sel_hover.asp
-https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/
-https://paula-rodrigo.github.io/
+- used the [github tutorial](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) to create my own webpage
+- I used [this page](https://help.github.com/en/enterprise/2.14/user/articles/customizing-css-and-html-in-your-jekyll-theme) to figure out which parts of the original theme code I needed to have to change parts of the preset theme that I chose
+- I wanted to change visual elements of my site, so I used these links to help me figure out how to edit the code:
+  - [to change background colour](https://github.com/onivim/oni/issues/1708)
+  - [to customize the link hover](https://www.w3schools.com/cssref/sel_hover.asp)
+  - [to outline the title text](https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/)
+- really enjoyed the creativity I had to customize the site
+- wondering if I could even make my own github website theme in the future
+- after this exercise, I think websites should be pleasing to the eye, easy to navigate (user-friendly), and visually relevant to what it is about
