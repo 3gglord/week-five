@@ -45,13 +45,12 @@ From [this reading](http://www.themacroscope.org/?page_id=875): cartography is a
 
 ## Posters
 - academic posters and infographics
-
-from [this reading](http://www.themacroscope.org/?page_id=875):
-- information visualization: mapping of abstract data to graphic variables to make a visual representation
-- static visualizations: do not move and cannot be manipulated
-- dynamic visualizations: short animations which show change, either over time or across some other variable
-- interactive visualizations: allow the user to manipulate the graphical variables themselves in real-time
-- need balance between clarity and flexibility
+- from [this reading](http://www.themacroscope.org/?page_id=875):
+  - information visualization: mapping of abstract data to graphic variables to make a visual representation
+  - static visualizations: do not move and cannot be manipulated
+  - dynamic visualizations: short animations which show change, either over time or across some other variable
+  - interactive visualizations: allow the user to manipulate the graphical variables themselves in real-time
+  - need balance between clarity and flexibility
 - succesfully edited and coloured this graph with Inkscape:
 ![inkscape-graph](g166.png)
 - I've used editing programs like Photoshop and Pixelmator before, so this is something I'm used to doing
