@@ -6,3 +6,10 @@ for their feedback. Did they understand the point you were trying to make? What 
 and what was confusing?
 
 What had an impact on you and how you think of your own historian’s craft?
+
+- accessibility
+  - colour blindness
+  - hearing disability
+- combining text and image
+- combining text and sound
+- making (digital) history more engaging 
