@@ -1,15 +1,7 @@
-think about what you found intriguing, compelling, and effective about the various sites and projects 
-you explored this week. Tie what you find/observe to your own work. With regard to your own work, 
-reflect on your design choices and the story you’re trying to tell, or the interesting thing you’ve found. 
-Critically evaluate the thing(s) you’ve made; perhaps show them to someone outside of this course and ask 
-for their feedback. Did they understand the point you were trying to make? What was effective, for them, 
-and what was confusing?
+# Week five journal
 
-What had an impact on you and how you think of your own historian’s craft?
+This week, I explored the Digital Panopticon website and the project, [Mapping the Scottish Survey of Witchcraft Database](https://witches.is.ed.ac.uk/). Both sites were interactive and changed how the data looked depending on what the viewer wanted to see. These websites also helped me think about choosing appropriate means of communication in digital history. For instance, in Digital Panopticon, I could change the variables for the pie graph visualization, but the pie graph model wasn't suitable for some of the variables. In the Witchcraft Database map, I could zoom in and out to gain specific or broad information about the accused witches. Clicking on an icon on the map gave information about the person's name, investigation date, gender, occupation, and social class. I the researcher had used a different map, like a story map, they may not have been able to show the same things.
 
-- accessibility
-  - colour blindness
-  - hearing disability
-- combining text and image
-- combining text and sound
-- making (digital) history more engaging 
+I found this week really interesting because it was about the actual ways of conveying the story or historical argument that comes out of the research, data collection, and data cleaning that we've been doing for the past few weeks. Initially, I was really excited to make a poster because I have a background in visual art. But after reading about Cristina Wood's project, Songs of the Ottawa, I realized how dependent history is on the text and visual storytelling methods. I really liked the sonification exercise because it is a new way of conveying historical patterns that I have never heard of before. I was compelled by the many different ways that meaning can be conveyed through sound. For example, in Wood's song "On The Water," the duration of the song coincides with the passage of time. On the other hand, in the song that I made for the sonification exercise, the duration of the song was associated with a location. 
+
+When thinking about moving away from text and visuals, I wonder if Wood could have recorded introductions to the songs to give context so that the songs would not have needed to read. In the Ottawa Citizen article, she said that listeners still need context so that the songs make sense. I found this to be the same as the song that I created. When I shared the mp3 with a friend, they said it just sounded like sounds until I told him what each element meant. If people can only read so much, why not record the contextual elements too? What about people who have visual impairments? When making posters, maps, and other visualizations, we have to think about our colour choices so that people with colour blindness can still understand the information. Similarly, people with visual impairments might benefit from sonification and podcast formats. Overall, I thought it was interesting seeing all of the different ways that text, image, and sound can be combined to tell a story or argue something. I think this aspect of digital history is very effective in making history more engaging and accessible to the general public. 
